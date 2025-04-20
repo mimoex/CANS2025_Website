@@ -28,48 +28,44 @@ This is the website for the **CANS2025 (Cryptology and Network Security 2025)** 
 - **Deployment:** Cloudflare Pages
 - **Version Control:** Git + GitHub
 
-### Prevent Search Engine Indexing for Preview Deployments
+## Build Command and Configuration
 
-To avoid indexing of preview (test) deployments on Cloudflare Pages by search engines, we use a conditional `noindex` meta tag.
 
-#### Configuration
+The build command for Cloudflare Pages includes the following flags:
 
-In `hugo.toml`, we define a parameter based on the environment variable `NOINDEX`:
 
-```toml
-[params]
-noindex = {{ getenv "NOINDEX" | default "false" }}
-```
+- `-b $CF_PAGES_URL`: This specifies the base URL for the site, which is automatically populated with the Cloudflare Pages deployment URL. This ensures that the URLs in the built site will be relative to the deployment URL for preview purposes.
 
-Then, in the site’s layout (e.g., `layouts/partials/head.html`), we include the following snippet:
 
-```html
-{{ if eq .Site.Params.noindex "true" }}
-  <meta name="robots" content="noindex, nofollow">
-{{ else }}
-  <meta name="robots" content="index, follow">
-{{ end }}
-```
+### Example Cloudflare Pages Build Command:
 
-This ensures that:
+```bash
 
-- 🔹 When running `hugo` locally or for production, the `noindex` tag is **not** included.
-- 🔹 On Cloudflare Pages **preview deployments**, we can enable `noindex` by setting an environment variable:
-
-#### Cloudflare Pages Environment Variable
-
-In your **Cloudflare Pages project settings**, under **Build Settings > Environment Variables**, add:
+hugo -b $CF_PAGES_URL
 
 ```
-Key:    NOINDEX
-Value:  true
-```
-
-This will inject `<meta name="robots" content="noindex, nofollow">` into the `<head>` section of all pages in the preview deployment.
-
-✅ This helps prevent test builds from being indexed by search engines while keeping the production site fully indexable.
 
 
+This command is used during the build process to set the correct base URL for your site. Cloudflare Pages automatically provides the `$CF_PAGES_URL` environment variable, which points to the deployed site’s URL.
+
+
+## SEO Control (Adding noindex)
+
+This project allows you to control SEO settings and the behavior of the `robots` meta tag during the build process based on the environment. 
+
+### Production (Default)
+By default, the `<meta name="robots" content="index, follow">` tag is included in the build output.
+
+### Development Environment (Cloudflare Pages)
+When building with `-e development`, the `noindex` tag is automatically added, and the output will be `<meta name="robots" content="noindex, nofollow">`.
+
+#### Setup for Cloudflare Pages
+1. In the Cloudflare Pages settings, add `-e development` to the build command.
+
+   Example Cloudflare Pages build command:
+   ```bash
+   hugo -e development
+   ```
 
 
 ## Local Development

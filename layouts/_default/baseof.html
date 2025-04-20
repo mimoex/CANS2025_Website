@@ -10,10 +10,10 @@
     {{ hugo.Generator }}
     {{ $production := hugo.IsProduction }}
     {{ $public := not .Params.private }}
-    {{ if eq .Site.Params.noindex "true" }}
-      <meta name="robots" content="noindex, nofollow">
-    {{ else }}
+    {{ if and $production $public }}
       <meta name="robots" content="index, follow">
+    {{ else }}
+      <meta name="robots" content="noindex, nofollow">
     {{ end }}
     {{ with .Params.author | compare.Default .Site.Params.author }}
       {{- $author := . -}}

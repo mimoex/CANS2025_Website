@@ -17,7 +17,6 @@ author = ""
 favicon = "images/cans_logo.png"
 site_logo = ""
 description = ""
-noindex = {{ getenv "NOINDEX" | default "false" }}
 
 [taxonomies]
   tag = ""
