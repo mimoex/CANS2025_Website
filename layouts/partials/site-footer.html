@@ -1,0 +1,26 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} pa3" role="contentinfo">
+  <div class="flex flex-column flex-row-ns justify-between items-center">
+    <a class="f4 fw4 hover-white white-70 no-underline" href="{{ .Site.Home.Permalink }}">
+      {{ with .Site.Copyright | default .Site.Title }}{{ . | safeHTML }}{{ end }}
+    </a>
+
+    <div class="mt3 mt0-ns">
+      {{ partialCached "social/follow.html" . }}
+    </div>
+  </div>
+
+  <div class="mt4">
+    <p class="tc white-70 f5 mb3">Sponsored by</p>
+    <div class="flex justify-center flex-wrap items-center">
+      <a href="https://www.nict.go.jp/en/" target="_blank" rel="noopener" class="mh2">
+        <img src="/images/sponsors/nict.jpg" alt="NICT" style="height: 50px;" />
+      </a>
+      <a href="https://www.secomzaidan.jp/" target="_blank" rel="noopener" class="mh2">
+        <img src="/images/sponsors/secom.jpg" alt="SECOM" style="height: 50px;" />
+      </a>
+      <a href="https://www.springer.com/gp" target="_blank" rel="noopener" class="mh2">
+        <img src="/images/sponsors/springer.jpg" alt="Springer" style="height: 50px;" />
+      </a>
+    </div>
+  </div>
+</footer>

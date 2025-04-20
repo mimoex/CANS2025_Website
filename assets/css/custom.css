@@ -1,0 +1,75 @@
+.topics-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .topics-grid .topic {
+    flex: 1 1 calc(33.333% - 1rem);
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  @media (max-width: 768px) {
+    .topics-grid .topic {
+      flex: 1 1 100%;
+    }
+  }
+  
+  img.img-fixed {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+  }
+
+
+  .committee-entry {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding: 0.5rem 0;
+    font-size: 1rem;
+  }
+  
+  .committee-entry .name {
+    font-weight: right;
+    width: 45%;
+  }
+  
+  .committee-entry .affiliation {
+    text-align: right;
+    width: 55%;
+    color: #555;
+  }
+  
+
+
+  .responsive-iframe {
+    position: relative;
+    padding-bottom: 56.25%;  /* 16:9 ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.responsive-iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.news-box {
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
