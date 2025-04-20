@@ -23,7 +23,7 @@ This is the website for the **CANS2025 (Cryptology and Network Security 2025)** 
 
 ## Built With
 
-- **Static Site Generator:** [Hugo](https://gohugo.io/) ` v0.145.0-extended`
+- **Static Site Generator:** [Hugo](https://gohugo.io/) `v0.145.0-extended`
 - **Theme:** [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
 - **Deployment:** Cloudflare Pages
 - **Version Control:** Git + GitHub

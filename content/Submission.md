@@ -10,7 +10,7 @@ Submit a paper, please do so through [**EasyChair**](https://easychair.org/accou
 
 # Important dates
 
-- **Registration of new submissions permitted until: April 17 April 28 AoE. Papers must be submitted via EasyChair.**
+- **Registration of new submissions permitted until: ~~April 17~~ <span style="color: red">April 28 AoE.</span> Papers must be [submitted via EasyChair](https://easychair.org/my/conference?conf=cans2025).**
     - **<span style="color: red">Updates of existing submissions permitted until: May 1st AoE.</span>**
 - **Notification: 10 July**
 - **Camera-ready: 14 August**

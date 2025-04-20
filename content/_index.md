@@ -42,7 +42,7 @@ The International Conference on Cryptology and Network Security (CANS) is a prem
 
   <li>
     <strong>2025/02/11</strong><br>
-    ・Add STIPENT
+    ・Add STIPEND
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 

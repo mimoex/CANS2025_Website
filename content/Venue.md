@@ -1,10 +1,9 @@
 ---
-title: "Conference Venue"
+title: "Venue"
 date: 2025-04-20
-featured_image : '/images/venue/floor.webp'
 ---
 
-# Grand Cube Osaka
+# Conference Venue
 
 [Grand Cube Osaka (Osaka International Convention Center)](https://www.gco.co.jp/visitor/?stt_lang=en) is strategically located in the heart of Osaka, offering excellent accessibility for both business and leisure. With its central location, visitors can easily reach many key destinations around the city.
 
@@ -18,8 +17,7 @@ With its prime location, outstanding facilities, and proven track record of host
 
 ![conference room](/images/venue/floor.webp)
 
-### Google Map
-
+### Map
 <div class="responsive-iframe">
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1788.774257618916!2d135.4863360071789!3d34.68937781913009!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e658eb20202f%3A0xc3e1552c4163ec4!2sOsaka%20International%20Convention%20Center%20(Grand%20Cube%20Osaka)!5e0!3m2!1sen!2sus!4v1745115248165!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -38,7 +36,7 @@ For detailed transfer and transportation information, including airport and loca
 
 ![Osaka Geihinka](/images/venue/geihinkan.webp)
 
-We are pleased to announce that the official conference banquet will be held at **[Osaka Geihinkan](https://www.osakacastle.jp/)**, a prestigious guest house located within the scenic **Expo ’70 Commemorative Park** in Suita City, Osaka.
+We are pleased to announce that the official conference banquet will be held at **[Osaka Geihinkan](https://www.osakacastle.jp/)**.
 
 ## About Osaka Geihinkan
 
@@ -47,6 +45,11 @@ Originally built to welcome state guests, Osaka Geihinkan is renowned for its el
 ![Osaka Geihinka](/images/venue/hall.webp)
 
 ![a la carte](/images/venue/dish.webp)
+
+### Map
+<div class="responsive-iframe">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.675794593867!2d135.52031841201574!3d34.68813108377313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e72cf78fffff%3A0x2914f59b07aac290!2sOsaka%20Geihinkan!5e0!3m2!1sen!2sus!4v1745151343746!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## Event Details
 
