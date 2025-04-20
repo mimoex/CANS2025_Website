@@ -18,8 +18,8 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
-          ACCOUNT_ID="<YOUR_ACCOUNT_ID>"
-          PROJECT_NAME="<YOUR_PROJECT_NAME>"
+          ACCOUNT_ID="e7a03fc03aeaa08315f86fee631448f6"
+          PROJECT_NAME="cans2025-website"
           BRANCH="${{ steps.vars.outputs.BRANCH_NAME }}"
 
           echo "Fetching deployments for branch: $BRANCH"
