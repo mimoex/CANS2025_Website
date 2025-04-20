@@ -65,6 +65,20 @@
     height: 100%;
 }
 
+/* フッターのスポンサー表示 */
+.sponsorship-markdown a {
+  margin: 0 0.5rem;
+  display: inline-block;
+}
+
+.sponsorship-markdown img.img-fixed {
+  height: 60px;
+  vertical-align: middle;
+}
+
+
+
+
 .news-box {
     max-height: 200px;
     overflow-y: auto;
@@ -73,3 +87,62 @@
     background-color: #f9f9f9;
     border-radius: 8px;
   }
+
+
+/* ハンバーガーボタン非表示（PCでは） */
+.navbar-toggler {
+  display: none;
+}
+
+/* モバイル用スタイル */
+@media (max-width: 860px) {
+  .navbar-toggler {
+    display: block;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1100; /* メニューより前面に表示 */
+  }
+
+  .menu-container {
+    display: none;
+    flex-direction: column; /* アイテムを縦に並べる */
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #111;
+    width: 100%;
+    padding: 1rem;
+    z-index: 1000; /* メニューがボタンより下にならないように */
+  }
+
+  .menu-container.show {
+    display: flex; /* メニューが表示された時にflexで並べる */
+  }
+
+  /* メニューリスト */
+  .menu-list {
+    display: flex; /* メニューを縦に並べるためにflexを使用 */
+    flex-direction: column;  /* メニューアイテムを縦に並べる */
+    gap: 0.5rem;  /* メニューアイテム間にスペースを追加 */
+    padding-left: 0; /* 左の余白をなくす */
+    margin: 0; /* リストのデフォルトのマージンを削除 */
+  }
+
+  .menu-list li {
+    text-align: center; /* リストアイテムを中央揃えにする */
+  }
+
+  /* リストアイテムのリンク */
+  .menu-list li a {
+    display: block; /* リストアイテムをブロック表示にする */
+    padding: 10px 0; /* 上下にパディングを追加 */
+    color: white; /* リンクの文字色を白に */
+    text-decoration: none; /* 下線を削除 */
+    text-align: center; /* テキストを中央揃えにする */
+  }
+
+  .menu-list li a:hover {
+    background-color: #444; /* ホバー時の背景色変更 */
+  }
+}
