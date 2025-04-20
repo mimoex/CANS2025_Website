@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "CANS 2025"
 theme = "ananke"
 enableRobotsTXT = true
+minify = true
 
 [markup]
   [markup.goldmark]
@@ -13,8 +14,9 @@ enableRobotsTXT = true
 [params]
 text_color = ""
 background_color_class = "bg-gray"
+background = ""
 author = ""
-favicon = "images/cans_logo.png"
+favicon = "favicon/favicon.ico"
 site_logo = ""
 description = ""
 
