@@ -11,7 +11,8 @@ jobs:
       - name: Get branch name
         id: vars
         run: |
-          echo "BRANCH_NAME=${GITHUB_HEAD_REF}" >> "$GITHUB_OUTPUT"
+          BRANCH_NAME="${GITHUB_REF##*/}"
+          echo "BRANCH_NAME=${BRANCH_NAME}" >> "$GITHUB_OUTPUT"
 
       - name: Get Cloudflare Pages Deployments
         id: deployments
@@ -21,13 +22,14 @@ jobs:
           ACCOUNT_ID="e7a03fc03aeaa08315f86fee631448f6"
           PROJECT_NAME="cans2025-website"
           BRANCH="${{ steps.vars.outputs.BRANCH_NAME }}"
-
+          
           echo "Fetching deployments for branch: $BRANCH"
 
           DEPLOY_INFO=$(curl -s -X GET "https://api.cloudflare.com/client/v4/accounts/$ACCOUNT_ID/pages/projects/$PROJECT_NAME/deployments" \
             -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN")
 
-          # フィルタして最新のデプロイURLを取得
+          echo "DEPLOY_INFO=$DEPLOY_INFO"  # デプロイ情報を表示
+
           DEPLOY_URL=$(echo "$DEPLOY_INFO" | jq -r \
             --arg BR "$BRANCH" \
             '.result[] | select(.deployment_trigger.metadata.branch == $BR) | .url' | head -n 1)
