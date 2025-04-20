@@ -3,7 +3,7 @@ title: "CANS 2025"
 description: "24th International Conference on Cryptology and Network Security in Osaka, Japan"
 venue: "Osaka, Japan"
 dates: "17th - 20th November 2025"
-featured_image : '/images/osaka/Osaka-Castle.jpg'
+featured_image : '/images/osaka/Osaka-Castle.webp'
 ---
 
 ## 24th International Conference on Cryptology and Network Security
@@ -67,4 +67,4 @@ The International Conference on Cryptology and Network Security (CANS) is a prem
 - Special Interest Group on Security Psychology and Trust (IPSJ-SPT)
 
 ## Contact
-![Address](./images/contact_addr.jpg)
+![Address](./images/contact_addr.webp)

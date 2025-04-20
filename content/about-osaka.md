@@ -20,24 +20,24 @@ Welcome to Osaka — a dynamic city blending rich cultural heritage with cutting
 Explore some of the most iconic in Osaka:
 
 - **Osaka Science Museum**  
-![Osaka Science Museum](/images/osaka/museum.jpg)
+![Osaka Science Museum](/images/osaka/museum.webp)
 
 - **Nakanoshima Children’s Book Forest**
-![Nakanoshima Children’s Book Forest](/images/osaka/Children-Book-Forest.jpg)
+![Nakanoshima Children’s Book Forest](/images/osaka/Children-Book-Forest.webp)
 
 - **Grand Green Osaka**
-![Grand Green Osaka](/images/osaka/Grand-Green-Osaka.jpg)
+![Grand Green Osaka](/images/osaka/Grand-Green-Osaka.webp)
   A beautiful new park near Osaka Station, ideal for a relaxing break in the heart of the city.
 
 - **Osaka Prefectural Nakanoshima Library**  
-![Osaka Prefectural Nakanoshima Library](/images/osaka/Nakanoshima-Library.jpg)
+![Osaka Prefectural Nakanoshima Library](/images/osaka/Nakanoshima-Library.webp)
   A stunning neoclassical building and a cultural landmark offering both literature and architectural charm.
 
 - **Osaka Castle**  
-![Osaka Castle](/images/osaka/Osaka-Castle.jpg)
+![Osaka Castle](/images/osaka/Osaka-Castle.webp)
 
 - **Namba Grand Kagetsu Theater**  
-![Namba Grand Kagetsu Theater](/images/osaka/Nanba-Grand-Kagetsu.jpg)
+![Namba Grand Kagetsu Theater](/images/osaka/Nanba-Grand-Kagetsu.webp)
   The home of Japanese comedy, or "manzai". Enjoy live performances with slapstick humor and clever wordplay — no language required to laugh!
 
 ---
@@ -48,14 +48,14 @@ Osaka is the birthplace of **kuidaore** — the joyful spirit of "eating until y
 
 - **Konamon Culture** (Flour-based dishes):
   - **Okonomiyaki**: Savory pancake with cabbage, pork, seafood, and special sauce.
-![Okonomiyaki](/images/osaka/okonomiyaki.jpg)
+![Okonomiyaki](/images/osaka/okonomiyaki.webp)
 
   - **Takoyaki**: Crisp outside, soft inside — dough balls filled with octopus and topped with mayo and bonito flakes.
-![Takoyaki](/images/osaka/takoyaki.jpg)
+![Takoyaki](/images/osaka/takoyaki.webp)
 
 - **Osaka’s Famous Dashi Culture**:
   - **Oden**: A comforting stew of slow-simmered ingredients in a rich soy-based broth.
-  ![oden](/images/osaka/oden.jpg)
+  ![oden](/images/osaka/oden.webp)
 
 Whether you're dining on the street, in a market, or at a traditional restaurant, Osaka offers food experiences you’ll never forget.
 

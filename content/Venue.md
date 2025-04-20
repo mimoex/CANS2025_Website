@@ -1,22 +1,22 @@
 ---
 title: "Conference Venue"
 date: 2025-04-20
-featured_image : '/images/venue/floor.jpg'
+featured_image : '/images/venue/floor.webp'
 ---
 
 # Grand Cube Osaka
 
-[Grand Cube Osaka (Osaka International Convention Center)](https://www.gco.co.jp/visitor/) is strategically located in the heart of Osaka, offering excellent accessibility for both business and leisure. With its central location, visitors can easily reach many key destinations around the city.
+[Grand Cube Osaka (Osaka International Convention Center)](https://www.gco.co.jp/visitor/?stt_lang=en) is strategically located in the heart of Osaka, offering excellent accessibility for both business and leisure. With its central location, visitors can easily reach many key destinations around the city.
 
 👉[Click here for tourist attractions in Osaka](/about-osaka)
 
-![Exterior Image](/images/venue/ext.jpg)
+![Exterior Image](/images/venue/ext.webp)
 
 
 With its prime location, outstanding facilities, and proven track record of hosting prestigious events like the [G7 Trade Ministers' Meeting](https://www.mofa.go.jp/ms/g7tm/page22e_001045.html), Grand Cube Osaka offers the perfect setting for international conferences and gatherings.
 
 
-![conference room](/images/venue/floor.jpg)
+![conference room](/images/venue/floor.webp)
 
 ### Google Map
 
@@ -36,17 +36,17 @@ For detailed transfer and transportation information, including airport and loca
 ---
 # Banquet
 
-![Osaka Geihinka](/images/venue/geihinkan.jpg)
+![Osaka Geihinka](/images/venue/geihinkan.webp)
 
-We are pleased to announce that the official conference banquet will be held at **Osaka Geihinkan**, a prestigious guest house located within the scenic **Expo ’70 Commemorative Park** in Suita City, Osaka.
+We are pleased to announce that the official conference banquet will be held at **[Osaka Geihinkan](https://www.osakacastle.jp/)**, a prestigious guest house located within the scenic **Expo ’70 Commemorative Park** in Suita City, Osaka.
 
 ## About Osaka Geihinkan
 
 Originally built to welcome state guests, Osaka Geihinkan is renowned for its elegant architecture, serene Japanese garden, and refined hospitality. The venue offers a truly memorable setting, blending traditional Japanese aesthetics with modern comfort.
 
-![Osaka Geihinka](/images/venue/hall.jpg)
+![Osaka Geihinka](/images/venue/hall.webp)
 
-![a la carte](/images/venue/dish.jpg)
+![a la carte](/images/venue/dish.webp)
 
 ## Event Details
 

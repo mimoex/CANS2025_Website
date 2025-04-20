@@ -50,7 +50,9 @@ The Program Committee will consider giving a Best Paper Award to the submission 
       <li>Hash functions</li>
     </ul>
   </aside>
+  </section>
 
+<section class="topics-grid">
   <aside class="topic">
     <h3>2. Cryptographic Foundations</h3>
     <ul>
@@ -63,7 +65,7 @@ The Program Committee will consider giving a Best Paper Award to the submission 
   </aside>
   </section>
 
-   <section class="topics-grid">
+<section class="topics-grid">
   <aside class="topic">
         <h3>3. Network and System Security</h3>
         <ul>
@@ -73,8 +75,10 @@ The Program Committee will consider giving a Best Paper Award to the submission 
         <li>Secure routing and naming</li>
         <li>Wireless and mobile security</li>
         </ul>
-    </aside>
+  </aside>
+</section>
 
+<section class="topics-grid">
   <aside class="topic">
     <h3>4. Privacy and Data Protection</h3>
     <ul>
@@ -84,9 +88,9 @@ The Program Committee will consider giving a Best Paper Award to the submission 
       <li>Privacy in machine learning</li>
     </ul>
   </aside>
-    </section>
+</section>
 
-  <section class="topics-grid">
+<section class="topics-grid">
   <aside class="topic">
     <h3>5. Applications and Emerging Technologies</h3>
     <ul>
