@@ -66,15 +66,42 @@
 }
 
 /* フッターのスポンサー表示 */
+.sponsorship-markdown {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+}
+
 .sponsorship-markdown a {
   margin: 0 0.5rem;
   display: inline-block;
 }
 
 .sponsorship-markdown img.img-fixed {
+  width: auto;
   height: 60px;
-  vertical-align: middle;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
 }
+
+/* モバイル対応 */
+@media (max-width: 600px) {
+  .sponsorship-markdown {
+    flex-direction: column; /* ここがポイント：縦並びに */
+    align-items: center;
+  }
+
+  .sponsorship-markdown a {
+    max-width: 80%;
+    min-width: 60px;
+    margin: 0.25rem 0; /* 上下に少し余白 */
+  }
+}
+
 
 
 
@@ -99,50 +126,53 @@
   .navbar-toggler {
     display: block;
     position: absolute;
-    top: 1rem;
+    top: 50%;               /* centers vertically within the container */
     right: 1rem;
-    z-index: 1100; /* メニューより前面に表示 */
+    transform: translateY(-50%);
+    z-index: 1100;          /* ensures the button is above the menu */
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 2rem;        /* adjust as necessary */
   }
 
   .menu-container {
     display: none;
-    flex-direction: column; /* アイテムを縦に並べる */
+    flex-direction: column;
     position: absolute;
     top: 100%;
     right: 0;
     background-color: #111;
     width: 100%;
     padding: 1rem;
-    z-index: 1000; /* メニューがボタンより下にならないように */
+    z-index: 1000;
   }
 
   .menu-container.show {
-    display: flex; /* メニューが表示された時にflexで並べる */
+    display: flex;
   }
 
-  /* メニューリスト */
   .menu-list {
-    display: flex; /* メニューを縦に並べるためにflexを使用 */
-    flex-direction: column;  /* メニューアイテムを縦に並べる */
-    gap: 0.5rem;  /* メニューアイテム間にスペースを追加 */
-    padding-left: 0; /* 左の余白をなくす */
-    margin: 0; /* リストのデフォルトのマージンを削除 */
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-left: 0;
+    margin: 0;
   }
 
   .menu-list li {
-    text-align: center; /* リストアイテムを中央揃えにする */
+    text-align: center;
   }
 
-  /* リストアイテムのリンク */
   .menu-list li a {
-    display: block; /* リストアイテムをブロック表示にする */
-    padding: 10px 0; /* 上下にパディングを追加 */
-    color: white; /* リンクの文字色を白に */
-    text-decoration: none; /* 下線を削除 */
-    text-align: center; /* テキストを中央揃えにする */
+    display: block;
+    padding: 10px 0;
+    color: white;
+    text-decoration: none;
+    text-align: center;
   }
 
   .menu-list li a:hover {
-    background-color: #444; /* ホバー時の背景色変更 */
+    background-color: #444;
   }
 }
