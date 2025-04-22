@@ -1,9 +1,11 @@
-baseURL = "https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/"
+baseURL = "/"
 languageCode = "en-us"
 title = "CANS 2025"
 theme = "ananke"
-enableRobotsTXT = true
+enableRobotsTXT = false
 minify = true
+relativeURLs = true
+canonifyURLs = false
 
 [markup]
   [markup.goldmark]
