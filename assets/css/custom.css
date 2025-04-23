@@ -176,3 +176,9 @@
     background-color: #444;
   }
 }
+
+@media (max-width: 1160px) {
+  .menu-list li a {
+    font-size: 1rem;
+  }
+}
