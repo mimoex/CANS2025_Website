@@ -4,6 +4,7 @@ description: "24th International Conference on Cryptology and Network Security i
 venue: "Osaka, Japan"
 dates: "17th - 20th November 2025"
 featured_image: "./images/osaka/Osaka-Castle.webp"
+canonicalUrl: "https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html"
 ---
 
 ## 24th International Conference on Cryptology and Network Security

@@ -17,7 +17,7 @@ canonifyURLs = false
 text_color = ""
 background_color_class = "bg-gray"
 background = ""
-author = ""
+author = "CANS2025 Organizing Committee"
 favicon = "favicon/favicon.ico"
 site_logo = ""
 description = ""
@@ -36,7 +36,7 @@ description = ""
   [[menu.main]]
     identifier = "CFP"
     name = "Call for Papers"
-    url = "/Call-for-Papers"
+    url = "/Call-for-Papers/"
     weight = 2
 
   [[menu.main]]
@@ -68,3 +68,9 @@ description = ""
     name = "Venue"
     url = "/Venue/"
     weight = 7
+
+  [[menu.main]]
+    identifier = "About Osaka"
+    name = "About Osaka"
+    url = "/about-osaka/"
+    weight = 8
