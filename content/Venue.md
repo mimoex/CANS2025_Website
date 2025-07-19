@@ -34,7 +34,7 @@ For detailed transfer and transportation information, including airport and loca
 ---
 # Banquet
 
-![Osaka Geihinka](/images/venue/geihinkan.webp)
+![Osaka Geihinkan](/images/venue/geihinkan.webp)
 
 We are pleased to announce that the official conference banquet will be held at **[Osaka Geihinkan](https://www.osakacastle.jp/)**.
 
@@ -42,13 +42,31 @@ We are pleased to announce that the official conference banquet will be held at 
 
 Originally built to welcome state guests, Osaka Geihinkan is renowned for its elegant architecture, serene Japanese garden, and refined hospitality. The venue offers a truly memorable setting, blending traditional Japanese aesthetics with modern comfort.
 
-![Osaka Geihinka](/images/venue/hall.webp)
+![Osaka Geihinkan Hall](/images/venue/hall.webp)
 
 ![a la carte](/images/venue/dish.webp)
 
 ### Map
 <div class="responsive-iframe">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.675794593867!2d135.52031841201574!3d34.68813108377313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e72cf78fffff%3A0x2914f59b07aac290!2sOsaka%20Geihinkan!5e0!3m2!1sen!2sus!4v1745151343746!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## Event Details
+
+Please wait for the update...
+
+---
+# Lunch
+
+![Nakanoshima Museum](/images/osaka/nakanoshima/nakanoshima.webp)
+
+We are pleased to announce that the official conference lunch will be held at **[Nakanoshima Museum of Art, Osaka](https://nakka-art.jp/en/)**.
+
+![Nakanoshima Museum interior](/images/osaka/nakanoshima/interior.webp)
+
+### Map
+<div class="responsive-iframe">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1640.252392181944!2d135.491392!3d34.692446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e772fa57b76b%3A0x6055726cda97e062!2z5aSn6Ziq5Lit5LmL5bO2576O6KGT6aSo!5e0!3m2!1sja!2sjp!4v1752898690777!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## Event Details

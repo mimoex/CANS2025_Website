@@ -182,3 +182,30 @@
     font-size: 1rem;
   }
 }
+
+
+.sponsor-row {
+  display: flex;
+  gap: 2rem; /* 画像間の間隔 */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.img-fixed {
+  max-height: 80px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.img-cisco {
+  max-height: 100px; /* 少し大きめ */
+}
+
+
+footer .sponsor-row {
+  margin: 2rem 0;
+}

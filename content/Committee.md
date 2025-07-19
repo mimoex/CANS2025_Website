@@ -32,7 +32,6 @@ date: 2025-04-19
 <div class="committee-entry"><span class="name">Dieter Gollmann</span><span class="affiliation">Hamburg University of Technolog</span></div>
 <div class="committee-entry"><span class="name">Eiichiro Fujisaki</span><span class="affiliation">JAIST</span></div>
 <div class="committee-entry"><span class="name">Fareena Saqib</span><span class="affiliation">University of North Carolina at Charlotte</span></div>
-<div class="committee-entry"><span class="name">Gerhard Hancke</span><span class="affiliation">City University of Hong Kong</span></div>
 <div class="committee-entry"><span class="name">Hikaru Tsuchida</span><span class="affiliation">Saitama Institute of Technology</span></div>
 <div class="committee-entry"><span class="name">Hiroshi Onuki</span><span class="affiliation">University of Tokyo</span></div>
 <div class="committee-entry"><span class="name">Hyoungshick Kim</span><span class="affiliation">Sungkyunkwan University</span></div>
@@ -59,7 +58,6 @@ date: 2025-04-19
 <div class="committee-entry"><span class="name">Murtuza Jadliwala</span><span class="affiliation">University of Texas at San Antonio</span></div>
 <div class="committee-entry"><span class="name">Naofumi Homma</span><span class="affiliation">Tohoku University</span></div>
 <div class="committee-entry"><span class="name">Nils Ole Tippenhauer</span><span class="affiliation">CISPA</span></div>
-<div class="committee-entry"><span class="name">Nitesh Saxena</span><span class="affiliation">Texas A&M University</span></div>
 <div class="committee-entry"><span class="name">Noboru Kunihiro</span><span class="affiliation">University of Tsukuba</span></div>
 <div class="committee-entry"><span class="name">Octavio Perez Kempner</span><span class="affiliation">NTT Social Informatics Laboratories</span></div>
 <div class="committee-entry"><span class="name">Omid Mir</span><span class="affiliation">Austrian Institute of Technology</span></div>

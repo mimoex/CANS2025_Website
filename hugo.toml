@@ -21,6 +21,9 @@ author = "CANS2025 Organizing Committee"
 favicon = "favicon/favicon.ico"
 site_logo = ""
 description = ""
+show_author = false
+show_reading_time = false
+show_date = false
 
 [taxonomies]
   tag = ""
@@ -40,6 +43,12 @@ description = ""
     weight = 2
 
   [[menu.main]]
+    identifier = "Important date"
+    name = "Important date"
+    url = "/Important-date/"
+    weight = 2.1
+
+  [[menu.main]]
     identifier = "Submission"
     name = "Submission"
     url = "/submission/"
@@ -50,6 +59,12 @@ description = ""
     name = "STIPEND"
     url = "/stipend/"
     weight = 4
+
+  [[menu.main]]
+    identifier = "Registration"
+    name = "Registration"
+    url = "/Registration/"
+    weight = 4.1
 
   [[menu.main]]
     identifier = "Committee"
