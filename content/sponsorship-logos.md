@@ -23,6 +23,10 @@ title: "Sponsorship Logos"
     <img src="/images/sponsors/mitsubishiele.png" alt="Mitsubishi Electric" class="img-fixed">
   </a>
 
+  <a href="https://www.global.toshiba/ww/top.html" target="_blank" rel="noopener">
+    <img src="/images/sponsors/toshiba_logo.png" alt="Toshiba" class="img-fixed">
+  </a>
+
   <a href="https://www.springer.com/gp" target="_blank" rel="noopener">
     <img src="/images/sponsors/springer.webp" alt="Springer" class="img-fixed">
   </a>

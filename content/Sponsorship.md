@@ -31,6 +31,10 @@ date: 2025-04-19
   <a href="https://www.mitsubishielectric.com/en/" target="_blank" rel="noopener">
     <img src="/images/sponsors/mitsubishiele.png" alt="Mitsubishi Electric" class="img-fixed">
   </a>
+
+  <a href="https://www.global.toshiba/ww/top.html" target="_blank" rel="noopener">
+    <img src="/images/sponsors/toshiba_logo.png" alt="Toshiba" class="img-fixed">
+  </a>
 </div>
 
 

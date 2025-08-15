@@ -19,7 +19,7 @@ background_color_class = "bg-gray"
 background = ""
 author = "CANS2025 Organizing Committee"
 favicon = "favicon/favicon.ico"
-site_logo = ""
+site_logo = "cans2025_logo.png"
 description = ""
 show_author = false
 show_reading_time = false
@@ -40,52 +40,64 @@ show_date = false
     identifier = "CFP"
     name = "Call for Papers"
     url = "/Call-for-Papers/"
-    weight = 2
+    weight = 5
 
   [[menu.main]]
     identifier = "Important date"
     name = "Important date"
     url = "/Important-date/"
-    weight = 2.1
+    weight = 10
 
   [[menu.main]]
     identifier = "Submission"
     name = "Submission"
     url = "/submission/"
-    weight = 3
+    weight = 15
 
   [[menu.main]]
     identifier = "stipend"
     name = "STIPEND"
     url = "/stipend/"
-    weight = 4
+    weight = 20
 
   [[menu.main]]
     identifier = "Registration"
     name = "Registration"
     url = "/Registration/"
-    weight = 4.1
+    weight = 25
+
+  [[menu.main]]
+    identifier = "Visa"
+    name = "Visa"
+    url = "/visa/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "Invited Talk"
+    name = "Invited Talk"
+    url = "/invited_talk/"
+    weight = 35
 
   [[menu.main]]
     identifier = "Committee"
     name = "Committee"
     url = "/Committee/"
-    weight = 5
+    weight = 40
 
   [[menu.main]]
     identifier = "Sponsorship"
     name = "Sponsorship"
     url = "/Sponsorship/"
-    weight = 6
+    weight = 45
 
   [[menu.main]]
     identifier = "Venue"
     name = "Venue"
     url = "/Venue/"
-    weight = 7
+    weight = 50
 
   [[menu.main]]
     identifier = "About Osaka"
     name = "About Osaka"
     url = "/about-osaka/"
-    weight = 8
+    weight = 55
