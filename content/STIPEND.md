@@ -1,6 +1,6 @@
 ---
 title: "STIPEND"
-date: 2025-04-19
+date: 2025-08-19
 ---
 
 The CANS 2025 student grant program will provide stipends to assist full-time students based upon the following conditions: 
@@ -17,4 +17,4 @@ The submission form will be announced on this website. Applicants should prepare
 - A copy of student card and certificate of enrollment 
 - Recommendation letter from supervisor 
 - Copy of passport and payment receipt of flight 
-The submission period: 10 July - 14 August, 2025
+The submission period: After September 1, 2025
