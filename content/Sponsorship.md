@@ -46,3 +46,11 @@ date: 2025-04-19
     <img src="/images/sponsors/springer.webp" alt="Springer" class="img-fixed">
   </a>
 </div>
+
+<div class="sponsor-row single">
+  <a href="https://mice.osaka-info.jp/en/" target="_blank" rel="noopener">
+    <img src="/images/sponsors/osaka-downtown-of-japan.png" alt="Osaka Downton of Japan" class="img-cisco">
+  </a>
+
+This symposium is supported through the Osaka Convention & Tourism Bureau by a grant from the Osaka Prefecture and the Osaka City for the “Subsidy for  international Conventions in Osaka that Align with EXPO2025“
+</div>

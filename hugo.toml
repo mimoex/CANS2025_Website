@@ -20,6 +20,7 @@ background = ""
 author = "CANS2025 Organizing Committee"
 favicon = "favicon/favicon.ico"
 site_logo = "/images/cans2025_logo.png"
+images = ["https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/images/og-image.webp"]
 description = ""
 show_author = false
 show_reading_time = false

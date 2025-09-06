@@ -17,4 +17,4 @@ The submission form will be announced on this website. Applicants should prepare
 - A copy of student card and certificate of enrollment 
 - Recommendation letter from supervisor 
 - Copy of passport and payment receipt of flight 
-The submission period: After September 1, 2025
+The submission period: September 1-25 , 2025

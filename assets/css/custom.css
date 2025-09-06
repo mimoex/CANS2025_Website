@@ -228,3 +228,18 @@ th, td {
 table th {
   white-space: normal;
 }
+
+/* ロゴを flex で潰させない */
+.logo-link { display: inline-flex; align-items: center; flex-shrink: 0; }
+
+/* テーマの img{width:100%} を打ち消してアスペクト比維持 */
+.site-logo{
+  height: 3rem;              /* 好きな高さに */
+  width: auto !important;    /* ←最重要：横幅自動を強制 */
+  max-width: none !important;/* テーマの max-width:100% を無効化 */
+  /* 念のため */
+  height: auto;              /* 画像の intrinsic 比率を使う */
+  max-height: 4rem;          /* 高さの上限を揃える */
+  object-fit: contain;       /* 万一の伸び対策 */
+  display: block;
+}

@@ -1,9 +1,9 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l center items-center justify-between relative">
     <!-- ロゴ -->
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline logo-link">
       {{ with .Site.Params.site_logo }}
-        <img src="{{ urls.RelURL . }}" class="h3 w-auto" alt="{{ $.Site.Title }}" />
+        <img src="{{ urls.RelURL . }}" alt="{{ $.Site.Title }}" class="site-logo">
       {{ else }}
         {{ .Site.Title }}
       {{ end }}
@@ -15,7 +15,7 @@
     </button>
 
     <!-- メニュー -->
-    <div class="flex-l items-center menu-container">
+    <div class="flex-l items-center menu-container ml4-ns ml3">
       {{ partials.Include "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="menu-list {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">

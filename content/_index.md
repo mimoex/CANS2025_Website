@@ -21,6 +21,18 @@ The International Conference on Cryptology and Network Security (CANS) is a prem
 <div style="max-height: 400px; overflow-y: auto; padding: 1rem; border: 1px solid #ddd; background-color: #f9f9f9; border-radius: 8px; font-size: 1rem; line-height: 1.6;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
   <li>
+    <strong>2025/09/06</strong><br>
+    ・Update Banquet infomartion
+  </li>
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
+
+  <li>
+    <strong>2025/08/19</strong><br>
+    ・Update Registration, VISA, STIPEND
+  </li>
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
+
+  <li>
     <strong>2025/07/19</strong><br>
     ・Additional information about the lunch venue
   </li>

@@ -30,4 +30,8 @@ title: "Sponsorship Logos"
   <a href="https://www.springer.com/gp" target="_blank" rel="noopener">
     <img src="/images/sponsors/springer.webp" alt="Springer" class="img-fixed">
   </a>
+
+  <a href="https://mice.osaka-info.jp/en/" target="_blank" rel="noopener">
+    <img src="/images/sponsors/osaka-downtown-of-japan.png" alt="Osaka Downton of Japan" class="img-fixed">
+  </a>
 </div>

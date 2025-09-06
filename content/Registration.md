@@ -14,7 +14,7 @@ Registration for authors and other participants is now open.
   </a>
 </p>
 
-- Author Registration / Early Registration Deadline: **September 25, 2025 (23:59 JST)**
+- Author Registration / Early Registration Deadline payment: **September 25, 2025 (23:59 JST)**
 - Regular Registration Deadline: **October 27, 2025 (23:59 JST)**
 
 All deadlines are specified in Japanese Standard Time (JST). Registration fees must be received by the applicable deadline. Please ensure that you complete your registration well in advance of the deadline.
@@ -32,7 +32,7 @@ All deadlines are specified in Japanese Standard Time (JST). Registration fees m
 </thead>
 <tbody>
 <tr>
-<td>Author Registration (In person or Online)</td>
+<td>Author Registration (In person only)</td>
 <td>110,000 JPY</td>
 <td>&mdash;</td>
 <td>&mdash;</td>
@@ -60,7 +60,7 @@ All deadlines are specified in Japanese Standard Time (JST). Registration fees m
 
 ## Registration Policy
 
-- Author registration not completed by the deadline may result in paper exclusion from the proceedings.
+- Author registration with payment not completed by the deadline may result in paper exclusion from the proceedings.
 - Papers without at least one completed author registration by the deadline will be excluded from the proceedings.
 - We encourage all participants to register by the Regular deadline. For Late registration, additional dinner tickets cannot be purchased, dietary requests may not be guaranteed, and polo-shirt sizes will be provided based on availability.
 
