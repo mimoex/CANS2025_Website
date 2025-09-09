@@ -62,7 +62,10 @@ Both banquets will feature fine dining, networking opportunities, and a chance t
 
 ![Osaka Geihinkan](/images/venue/geihinkan.webp)
 
-Originally built to welcome state guests, [Osaka Geihinkan](https://www.osakacastle.jp/) is renowned for its elegant architecture, serene Japanese garden, and refined hospitality. The venue offers a truly memorable setting, blending traditional Japanese aesthetics with modern comfort.  
+Originally built to welcome state guests, [Osaka Geihinkan](https://www.osakacastle.jp/) is renowned for its elegant architecture, serene Japanese garden, and refined hospitality. The venue offers a truly memorable setting, blending traditional Japanese aesthetics with modern comfort.
+
+**Transportation on Nov. 19:** We will travel to the Osaka Geihinkan by [Aqua Liner](https://suijo-bus.osaka/language/).
+
 
 ![Osaka Geihinkan Hall](/images/venue/hall.webp)
 
@@ -77,9 +80,15 @@ Originally built to welcome state guests, [Osaka Geihinkan](https://www.osakacas
 
 # Lunch
 
-![Nakanoshima Museum](/images/osaka/nakanoshima/nakanoshima.webp)
+**Lunch locations by day:**
+- **Nov. 18 (Tue):** Lunch at **[Nakanoshima Museum of Art, Osaka](https://nakka-art.jp/en/)**.
+- **Nov. 19 (Wed):** Lunch at **[Grand Cube Osaka (Osaka International Convention Center)](https://www.gco.co.jp/visitor/?stt_lang=en)**.
 
-We are pleased to announce that the official conference lunch will be held at **[Nakanoshima Museum of Art, Osaka](https://nakka-art.jp/en/)**.
+---
+
+## About Nakanoshima Museum of Art (Nov. 18)
+
+![Nakanoshima Museum](/images/osaka/nakanoshima/nakanoshima.webp)
 
 ![Nakanoshima Museum interior](/images/osaka/nakanoshima/interior.webp)
 
