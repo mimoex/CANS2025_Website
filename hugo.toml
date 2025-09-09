@@ -74,6 +74,12 @@ show_date = false
     weight = 30
 
   [[menu.main]]
+    identifier = "Accepted Papers"
+    name = "Accepted Papers"
+    url = "/accepted-papers/"
+    weight = 34
+
+  [[menu.main]]
     identifier = "Invited Talk"
     name = "Invited Talk"
     url = "/invited_talk/"
