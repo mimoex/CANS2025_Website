@@ -118,7 +118,7 @@ date: 2025-04-19
 <div class="committee-entry"><span class="name">Atsuo Inomata</span><span class="affiliation">The University of Osaka</span></div>
 <div class="committee-entry"><span class="name">Masaki Hashimoto</span><span class="affiliation">Kagawa University</span></div>
 <div class="committee-entry"><span class="name">Shinya Okumura</span><span class="affiliation">The University of Osaka</span></div>
-<div class="committee-entry"><span class="name">Takeshi Chikawaza</span><span class="affiliation">Information-technology Promotion Agency, Japan</span></div>
+<div class="committee-entry"><span class="name">Takeshi Chikazawa</span><span class="affiliation">Information-technology Promotion Agency, Japan</span></div>
 
 ### Registration
 <div class="committee-entry"><span class="name">Fukutomo Nakanishi</span><span class="affiliation">Toshiba Corporation</span></div>
