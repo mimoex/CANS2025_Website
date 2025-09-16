@@ -44,6 +44,12 @@ show_date = false
     weight = 5
 
   [[menu.main]]
+    identifier = "CFPoster"
+    name = "Call for Poster"
+    url = "/Call-for-Poster/"
+    weight = 6
+
+  [[menu.main]]
     identifier = "Important date"
     name = "Important date"
     url = "/Important-date/"

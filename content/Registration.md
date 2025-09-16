@@ -8,7 +8,7 @@ date: 2025-09-02
 Registration for authors and other participants is now open.
 
 <p>
-  <a href="https://gakkai-web.net/p/knt/cans2025/new2.php"
+  <a href="https://gakkai-web.net/p/knt/cans2025/new2.php" target="_blank"
      style="background:#88f; color:#fff; padding:5px 10px; border-radius:4px; cursor:pointer; text-decoration:none;">
     Register Now
   </a>
