@@ -47,7 +47,7 @@ date: 2025-04-19
   </a>
 </div>
 
-<div class="sponsor-row sponsor-text">
+<div class="sponsor-row osaka-text">
   <a href="https://mice.osaka-info.jp/en/" target="_blank" rel="noopener">
     <img src="/images/sponsors/osaka-downtown-of-japan.webp" alt="Osaka Downton of Japan" class="img-cisco">
   </a>
