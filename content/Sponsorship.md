@@ -29,11 +29,11 @@ date: 2025-04-19
   </a>
 
   <a href="https://www.mitsubishielectric.com/en/" target="_blank" rel="noopener">
-    <img src="/images/sponsors/mitsubishiele.png" alt="Mitsubishi Electric" class="img-fixed">
+    <img src="/images/sponsors/mitsubishiele.webp" alt="Mitsubishi Electric" class="img-fixed">
   </a>
 
   <a href="https://www.global.toshiba/ww/top.html" target="_blank" rel="noopener">
-    <img src="/images/sponsors/toshiba_logo.png" alt="Toshiba" class="img-fixed">
+    <img src="/images/sponsors/toshiba_logo.webp" alt="Toshiba" class="img-fixed">
   </a>
 </div>
 
@@ -47,10 +47,11 @@ date: 2025-04-19
   </a>
 </div>
 
-<div class="sponsor-row single">
+<div class="sponsor-row sponsor-text">
   <a href="https://mice.osaka-info.jp/en/" target="_blank" rel="noopener">
-    <img src="/images/sponsors/osaka-downtown-of-japan.png" alt="Osaka Downton of Japan" class="img-cisco">
+    <img src="/images/sponsors/osaka-downtown-of-japan.webp" alt="Osaka Downton of Japan" class="img-cisco">
   </a>
-
-This symposium is supported through the Osaka Convention & Tourism Bureau by a grant from the Osaka Prefecture and the Osaka City for the “Subsidy for  international Conventions in Osaka that Align with EXPO2025“
+  <p>
+  This symposium is supported through the Osaka Convention & Tourism Bureau by a grant from the Osaka Prefecture and the Osaka City for the “Subsidy for  international Conventions in Osaka that Align with EXPO2025“
+  </p>
 </div>

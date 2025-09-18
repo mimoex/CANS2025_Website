@@ -243,3 +243,51 @@ table th {
   object-fit: contain;       /* 万一の伸び対策 */
   display: block;
 }
+
+/* 大阪のデザイン */
+.sponsor-row.single {
+  display: flex;
+  justify-content: center;   /* 横方向で中央寄せ */
+  align-items: center;       /* 縦方向でも中央 */
+  margin: 20px 0;
+}
+
+.sponsor-row.single img {
+  max-width: 200px;
+  height: auto;
+}
+
+/* Osaka ロゴ＋テキスト用 */
+.sponsor-row.sponsor-text {
+  display: flex;
+  justify-content: center;   /* 横方向中央寄せ */
+  align-items: center;       /* 縦の中央寄せ */
+  gap: 20px;
+  margin: 20px auto;
+  max-width: 900px;
+  text-align: left;
+}
+
+.sponsor-row.sponsor-text img {
+  max-width: 120px;
+  height: auto;
+}
+
+.sponsor-row.sponsor-text p {
+  flex: 1;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* レスポンシブ対応（画面が狭いときは縦並び） */
+@media (max-width: 600px) {
+  .sponsor-row.sponsor-text {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .sponsor-row.sponsor-text p {
+    margin-top: 10px;
+    text-align: center;
+  }
+}

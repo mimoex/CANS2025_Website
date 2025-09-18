@@ -20,11 +20,11 @@ title: "Sponsorship Logos"
   </a>
 
   <a href="https://www.mitsubishielectric.com/en/" target="_blank" rel="noopener">
-    <img src="/images/sponsors/mitsubishiele.png" alt="Mitsubishi Electric" class="img-fixed">
+    <img src="/images/sponsors/mitsubishiele.webp" alt="Mitsubishi Electric" class="img-fixed">
   </a>
 
   <a href="https://www.global.toshiba/ww/top.html" target="_blank" rel="noopener">
-    <img src="/images/sponsors/toshiba_logo.png" alt="Toshiba" class="img-fixed">
+    <img src="/images/sponsors/toshiba_logo.webp" alt="Toshiba" class="img-fixed">
   </a>
 
   <a href="https://www.springer.com/gp" target="_blank" rel="noopener">
@@ -32,6 +32,6 @@ title: "Sponsorship Logos"
   </a>
 
   <a href="https://mice.osaka-info.jp/en/" target="_blank" rel="noopener">
-    <img src="/images/sponsors/osaka-downtown-of-japan.png" alt="Osaka Downton of Japan" class="img-fixed">
+    <img src="/images/sponsors/osaka-downtown-of-japan.webp" alt="Osaka Downton of Japan" class="img-fixed">
   </a>
 </div>
