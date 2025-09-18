@@ -111,4 +111,4 @@ The International Conference on Cryptology and Network Security (CANS) is a prem
 - Special Interest Group on Security Psychology and Trust (IPSJ-SPT)
 
 ## Contact
-![Address](/images/info_addr.png)
+![Address](/images/info_addr.webp)

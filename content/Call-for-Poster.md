@@ -38,6 +38,6 @@ CANS will host a poster session this year, providing a forum for presenting and 
 - Author Notification: 	A couple of days after submission
 
 ## Contact 
-![mail-address](/images/info_addr.png)
+![mail-address](/images/info_addr.webp)
 - Naoto Yanai (Panasonic Holding Corporation)
 - Masaki Hashimoto(Kagawa University)
