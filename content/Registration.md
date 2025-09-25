@@ -14,7 +14,7 @@ Registration for authors and other participants is now open.
   </a>
 </p>
 
-- Author Registration / Early Registration Deadline payment: **September 25, 2025 (23:59 JST)**
+- ~~Author Registration / Early Registration Deadline payment: **September 25, 2025 (23:59 JST)**~~
 - Regular Registration Deadline: **October 27, 2025 (23:59 JST)**
 
 All deadlines are specified in Japanese Standard Time (JST). Registration fees must be received by the applicable deadline. Please ensure that you complete your registration well in advance of the deadline.
@@ -25,7 +25,7 @@ All deadlines are specified in Japanese Standard Time (JST). Registration fees m
 <thead>
 <tr>
 <th>Category</th>
-<th>Early (-9/25)</th>
+<th class="grayout"><s>Early (-9/25)</s></th>
 <th>Regular (-10/27)</th>
 <th>Late (10/28-)</th>
 </tr>
@@ -33,25 +33,25 @@ All deadlines are specified in Japanese Standard Time (JST). Registration fees m
 <tbody>
 <tr>
 <td>Author Registration (In person only)</td>
-<td>110,000 JPY</td>
+<td class="grayout"><s>110,000 JPY</s></td>
 <td>&mdash;</td>
 <td>&mdash;</td>
 </tr>
 <tr>
 <td>General Registration (In person)</td>
-<td>110,000 JPY</td>
+<td class="grayout"><s>110,000 JPY</s></td>
 <td>120,000 JPY</td>
 <td>130,000 JPY</td>
 </tr>
 <tr>
 <td>Student Participant (In person)</td>
-<td>80,000 JPY</td>
+<td class="grayout"><s>80,000 JPY</s></td>
 <td>90,000 JPY</td>
 <td>130,000 JPY</td>
 </tr>
 <tr>
 <td>Online Participant</td>
-<td>105,000 JPY</td>
+<td class="grayout"><s>105,000 JPY</s></td>
 <td>115,000 JPY</td>
 <td>130,000 JPY</td>
 </tr>

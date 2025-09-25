@@ -19,4 +19,4 @@ To access the submission form, you must log in to your Google Account. Applicant
 - Recommendation letter from supervisor 
 - Copy of passport and payment receipt of flight
 
-The submission period: September 1-25 , 2025
+~~The submission period: September 1-25 , 2025~~

@@ -80,6 +80,12 @@ show_date = false
     weight = 30
 
   [[menu.main]]
+    identifier = "Program"
+    name = "Program"
+    url = "/Program/"
+    weight = 33
+
+  [[menu.main]]
     identifier = "Accepted Papers"
     name = "Accepted Papers"
     url = "/accepted-papers/"

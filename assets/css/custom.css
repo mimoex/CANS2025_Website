@@ -291,3 +291,17 @@ table th {
     text-align: center;
   }
 }
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-responsive table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.grayout {
+  color: #aaa;
+  opacity: 0.6;
+}
