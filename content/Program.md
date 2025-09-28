@@ -14,16 +14,18 @@ date: 2025-09-25
 
 | Time         | Event |
 |--------------|-------|
-| 09:00-09:20  | Registration |
-| 09:20-10:20  | Opening, Invited Talk 1: AGRAWAL SHWETA, <br>Computer Science and Eng, IIT Madras |
+| 09:00-09:10  | Registration |
+| 09:10-09:20  | Opening |
+| 09:20-10:20  | Invited Talk 1: AGRAWAL SHWETA, Computer Science and Eng, IIT Madras |
 | 10:20-10:50  | Break, Poster Session and Industry Exhibition |
 | 10:50-12:10  | Technical Session 1 |
-| 12:20-13:20  | Lunch (Musée KARATO at the [Nakanoshima Art Museum](https://nakka-art.jp/))<br>Participants will walk through the Nakanoshima district to the lunch site. |
+| 12:20-13:20  | Lunch ([Musée KARATO](https://musee-karato.com/) at the [Nakanoshima Art Museum](https://nakka-art.jp/))<br>Participants will walk from the venue through the Nakanoshima district to the lunch site. |
 | 13:20-13:30  | Memorial photo in front of the Nakanoshima Art Museum |
 | 13:40-15:00  | Technical Session 2 |
 | 15:00-15:30  | Break, Poster Session and Industry Exhibition |
 | 15:30-16:50  | Technical Session 3 |
-| 17:50-       | Dinner at the [Osaka Cotton Industry Club (綿業会館, Mengyo Club)](https://mengyo-club.jp/)<br>A historic building designated as an Important Cultural Property of Japan.<br>Participants will walk through the Nakanoshima district. |
+| 17:10-17:40  | Participants will stroll through the Nakanoshima district from the venue to the dinner site. |
+| 17:50-       | Dinner at the [Osaka Cotton Industry Club (綿業会館, Mengyo Club)](https://mengyo-club.jp/)<br>A historic building designated as an Important Cultural Property of Japan.<br>Participants will walk from the venue through the Nakanoshima district. |
 
 
 ## November 19 (Wed) (Grand Cube Osaka)
@@ -38,7 +40,7 @@ date: 2025-09-25
 | 13:20-14:30  | Technical Session 5 |
 | 14:30-15:00  | Break, Poster Session and Industry Exhibition |
 | 15:00-16:20  | Technical Session 6 |
-| 19:00-       | Banquet at Osaka Castle Nishinomaru Garden<br>Participants will travel by boat.<br>**Plan of movements to Banquet**<br>17:00-17:50 [Aqua Liner](https://suijo-bus.osaka/language/) from Yodoyabashi port to Osaka Castle Pier<br>17:50-18:30 Walk through Osaka Castle Park district to the dinner site |
+| 19:00-       | Banquet at Osaka Castle Nishinomaru Garden<br>Participants will travel from the venue by boat. Nakanoshima is known as the "city of water," and river cruise transportation will be arranged.<br>**Plan of movements to Banquet**<br>17:00-17:50 [Aqua Liner](https://suijo-bus.osaka/language/) from Yodoyabashi port to Osaka Castle Pier<br>17:50-18:30 Participants will walk through the Osaka Castle Park district to the dinner site |
 
 
 ## November 20 (Thu) (Grand Cube Osaka)
