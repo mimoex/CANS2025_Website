@@ -7,4 +7,4 @@ date: 2025-08-15
 - **Title:** Exploring New Frontiers in Cryptography from Brave New Assumptions 
 
 ### [Surya Nepal (CSIRO)](https://people.csiro.au/N/S/Surya-Nepal)
-- **Title:** TBD
+- **Title:** Exploring New Frontiers in Cryptography from Brave New Assumptions

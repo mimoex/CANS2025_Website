@@ -116,26 +116,102 @@
   }
 
 
-/* ハンバーガーボタン非表示（PCでは） */
+/* ===================== PC/共通スタイル ===================== */
+
+/* ハンバーガーボタンはPCでは非表示 */
 .navbar-toggler {
   display: none;
 }
 
-/* モバイル用スタイル */
-@media (max-width: 980px) {
+/* メニューリスト */
+.menu-list {
+  display: flex !important;
+  flex-direction: row;
+  gap: 0.1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none !important;
+}
+
+.menu-list > li {
+  position: relative;
+}
+
+.menu-list > li > a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 1rem 0.5rem;
+}
+
+/* ドロップダウン */
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 200px;
+  background: #333;
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 0;
+  z-index: 1000;
+}
+
+.dropdown li a {
+  color: #fff;
+  padding: 0.5rem 1rem;
+  display: block;
+  text-decoration: none;
+}
+
+.dropdown li a:hover {
+  background: #444;
+}
+
+.menu-list li:hover > .dropdown {
+  display: block;
+}
+
+/* サブメニュー開閉ボタン */
+.submenu-toggle {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 0.8rem;
+  margin-left: 0.3rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.menu-list li {
+  position: relative;
+}
+
+/* 左寄せフレックス（PCのみ有効） */
+.flex-l {
+  display: flex;
+  align-items: center;
+}
+
+
+/* ===================== モバイル用スタイル ===================== */
+@media (max-width: 680px) {
+  /* ハンバーガーボタン表示 */
   .navbar-toggler {
     display: block;
     position: absolute;
-    top: 50%;               /* centers vertically within the container */
+    top: 50%;
     right: 1rem;
     transform: translateY(-50%);
-    z-index: 1100;          /* ensures the button is above the menu */
+    z-index: 1100;
     background: transparent;
     border: none;
     color: white;
-    font-size: 1.2rem;        /* adjust as necessary */
+    font-size: 1.2rem;
   }
 
+  /* メニュー全体 */
   .menu-container {
     display: none;
     flex-direction: column;
@@ -152,36 +228,53 @@
     display: flex;
   }
 
+  /* メニューリスト（縦並び） */
   .menu-list {
-    display: flex;
     flex-direction: column;
-    gap: 0.5rem;
-    padding-left: 0;
-    margin: 0;
+    width: 100%;
   }
 
-  .menu-list li {
-    text-align: center;
+  .menu-list > li {
+    width: 100%;
   }
 
-  .menu-list li a {
+  .menu-list > li > a,
+  .menu-list > li > .submenu-toggle {
+    display: inline-block;
+    padding: 1rem;
+  }
+
+  /* サブメニュー */
+  .dropdown {
+    display: none;
+    background: #222;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .menu-list li.open > .dropdown {
     display: block;
-    padding: 10px 0;
-    color: white;
-    text-decoration: none;
-    text-align: center;
   }
 
-  .menu-list li a:hover {
-    background-color: #444;
+  .dropdown li a {
+    padding: 0.75rem 1rem;
+    width: 100%;
+  }
+
+  /* サブメニュー開閉ボタン（モバイル用微調整） */
+  .submenu-toggle {
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+  }
+
+  /* flex-l を無効化 */
+  .flex-l {
+    display: block;
+    align-items: unset;
   }
 }
 
-@media (max-width: 1160px) {
-  .menu-list li a {
-    font-size: 1.2rem;
-  }
-}
+
 
 
 .sponsor-row {
@@ -304,4 +397,23 @@ table th {
 .grayout {
   color: #aaa;
   opacity: 0.6;
+}
+
+/* Program 表（レスポンシブ対応で折り返す） */
+.nested-copy-line-height table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;   /* 幅を均等に割り振り */
+  word-wrap: break-word; /* 長い単語を折り返す */
+  overflow-wrap: break-word;
+}
+
+.nested-copy-line-height th,
+.nested-copy-line-height td {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  vertical-align: top;
+  text-align: left;
+  white-space: normal;   /* ← nowrapを禁止して改行を許可 */
+  word-break: break-word;
 }

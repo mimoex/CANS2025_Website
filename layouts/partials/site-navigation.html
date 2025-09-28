@@ -15,21 +15,29 @@
     </button>
 
     <!-- メニュー -->
-    <div class="flex-l items-center menu-container ml4-ns ml3">
+    <div class="items-center menu-container ml4-ns ml3">
       {{ partials.Include "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="menu-list {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a
-              class="hover-white white-90 no-underline {{ if eq $.Page.RelPermalink .URL }}b--white bb bw1{{ end }}"
-              href="{{ .URL }}"
-              title="{{ .Name }}">
-              {{ .Name }}
-            </a>
-          </li>
+      <ul class="menu-list">
+        {{ range .Site.Menus.main }}
+          {{ if not .Parent }}
+            <li>
+              <a href="{{ .URL }}">{{ .Name }}</a>
+
+              {{ if .HasChildren }}
+                <button class="submenu-toggle" aria-label="Toggle submenu">▼</button>
+                <ul class="dropdown">
+                  {{ range .Children }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+            </li>
           {{ end }}
-        </ul>
+        {{ end }}
+      </ul>
+
+
       {{ end }}
       {{ partials.IncludeCached "social/follow.html" . }}
     </div>

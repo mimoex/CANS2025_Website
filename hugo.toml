@@ -31,92 +31,129 @@ show_date = false
   category = ""
 
 [menu]
+
+  # --- Home ---
   [[menu.main]]
-    identifier = "Home"
+    identifier = "home"
     name = "Home"
     url = "/"
     weight = 1
 
+  # --- Submission ---
   [[menu.main]]
-    identifier = "CFP"
-    name = "Call for Papers"
-    url = "/Call-for-Papers/"
+    identifier = "submission"
+    name = "Submission"
+    url = "#"
     weight = 5
 
-  [[menu.main]]
-    identifier = "CFPoster"
-    name = "Call for Poster"
-    url = "/Call-for-Poster/"
-    weight = 6
+    [[menu.main]]
+      parent = "submission"
+      identifier = "cfp"
+      name = "Call for Papers"
+      url = "/Call-for-Papers/"
+      weight = 1
 
+    [[menu.main]]
+      parent = "submission"
+      identifier = "cfposter"
+      name = "Call for Poster"
+      url = "/Call-for-Poster/"
+      weight = 2
+    
+    [[menu.main]]
+      parent = "submission"
+      identifier = "submission"
+      name = "submission"
+      url = "/submission/"
+      weight = 3
+
+    [[menu.main]]
+      parent = "submission"
+      identifier = "important-date"
+      name = "Important Date"
+      url = "/Important-date/"
+      weight = 4
+
+    [[menu.main]]
+      parent = "submission"
+      identifier = "stipend"
+      name = "Stipend"
+      url = "/stipend/"
+      weight = 5
+
+  # --- Program ---
   [[menu.main]]
-    identifier = "Important date"
-    name = "Important date"
-    url = "/Important-date/"
+    identifier = "program"
+    name = "Program"
+    url = "#"
     weight = 10
-
+    
   [[menu.main]]
-    identifier = "Submission"
-    name = "Submission"
-    url = "/submission/"
+    parent = "program"
+    identifier = "Conference Program"
+    name = "Conference Program"
+    url = "/program/"
+    weight = 1
+
+    [[menu.main]]
+      parent = "program"
+      identifier = "accepted-papers"
+      name = "Accepted Papers"
+      url = "/accepted-papers/"
+      weight = 2
+
+    [[menu.main]]
+      parent = "program"
+      identifier = "invited-talk"
+      name = "Invited Talk"
+      url = "/invited_talk/"
+      weight = 3
+
+  # --- Conference Info ---
+  [[menu.main]]
+    identifier = "conference-info"
+    name = "Conference Info"
+    url = "#"
     weight = 15
 
-  [[menu.main]]
-    identifier = "stipend"
-    name = "STIPEND"
-    url = "/stipend/"
-    weight = 20
+    
 
-  [[menu.main]]
-    identifier = "Registration"
-    name = "Registration"
-    url = "/Registration/"
-    weight = 25
+    [[menu.main]]
+      parent = "conference-info"
+      identifier = "visa"
+      name = "Visa"
+      url = "/visa/"
+      weight = 2
 
-  [[menu.main]]
-    identifier = "Visa"
-    name = "Visa"
-    url = "/visa/"
-    weight = 30
+    [[menu.main]]
+      parent = "conference-info"
+      identifier = "committee"
+      name = "Committee"
+      url = "/committee/"
+      weight = 3
 
-  [[menu.main]]
-    identifier = "Program"
-    name = "Program"
-    url = "/Program/"
-    weight = 33
+    [[menu.main]]
+      parent = "conference-info"
+      identifier = "venue"
+      name = "Venue"
+      url = "/venue/"
+      weight = 5
 
-  [[menu.main]]
-    identifier = "Accepted Papers"
-    name = "Accepted Papers"
-    url = "/accepted-papers/"
-    weight = 34
+    [[menu.main]]
+      parent = "conference-info"
+      identifier = "about-osaka"
+      name = "About Osaka"
+      url = "/about-osaka/"
+      weight = 6
 
-  [[menu.main]]
-    identifier = "Invited Talk"
-    name = "Invited Talk"
-    url = "/invited_talk/"
-    weight = 35
+[[menu.main]]
+  identifier = "registration"
+  name = "Registration"
+  url = "/registration/"
+  weight = 20
 
-  [[menu.main]]
-    identifier = "Committee"
-    name = "Committee"
-    url = "/Committee/"
-    weight = 40
-
-  [[menu.main]]
-    identifier = "Sponsorship"
-    name = "Sponsorship"
-    url = "/Sponsorship/"
-    weight = 45
-
-  [[menu.main]]
-    identifier = "Venue"
-    name = "Venue"
-    url = "/Venue/"
-    weight = 50
-
-  [[menu.main]]
-    identifier = "About Osaka"
-    name = "About Osaka"
-    url = "/about-osaka/"
-    weight = 55
+[[menu.main]]
+  identifier = "sponsorship"
+  name = "Sponsorship"
+  url = "/sponsorship/"
+  weight = 25
