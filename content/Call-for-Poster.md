@@ -25,6 +25,7 @@ CANS will host a poster session this year, providing a forum for presenting and 
 - At least one author of each accepted poster must register as “General Registration” and attend the conference in-person to present.
 - When registering, poster presenters are requested to enter their poster ID in the field where a regular paper ID is normally required. 
 - Accepted posters will be listed in the conference web page.
+- Print: Authors of accepted posters should print out and bring their poster to the conference venue.
 
 ## Important Dates
 <p>

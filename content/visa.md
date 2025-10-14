@@ -8,6 +8,9 @@ Participants from countries that have visa exemption agreements with Japan (such
 
 We also recommend contacting the Japanese embassy or consulate nearest to you. If an entry visa is required, please allow sufficient time for this procedure. Upon entering Japan, even if you have a visa, border authorities are authorized to check again the documents required for the issuance of the visa.
 
+Please note that visa invitation letters will only be issued to individuals who have completed the registration process and paid the registration fee. Requests submitted without payment or without a clear explanation of the purpose of participation may be disregarded without response. We appreciate your understanding and cooperation.
+
+
 ## Invitation letters
 Conference attendees who require a visa will typically need an invitation letter from the general chair. Kindly email your request, using the subject “Visa Invitation Letter Request”, to the address below:
 

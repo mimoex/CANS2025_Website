@@ -16,6 +16,7 @@ Registration for authors and other participants is now open.
 
 - ~~Author Registration / Early Registration Deadline payment: **September 25, 2025 (23:59 JST)**~~
 - Regular Registration Deadline: **October 27, 2025 (23:59 JST)**
+- Late Registration Period: **October 28 – Conference Days**
 
 All deadlines are specified in Japanese Standard Time (JST). Registration fees must be received by the applicable deadline. Please ensure that you complete your registration well in advance of the deadline.
 

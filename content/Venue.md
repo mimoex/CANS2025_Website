@@ -64,7 +64,7 @@ Both banquets will feature fine dining, networking opportunities, and a chance t
 
 Originally built to welcome state guests, [Osaka Geihinkan](https://www.osakacastle.jp/) is renowned for its elegant architecture, serene Japanese garden, and refined hospitality. The venue offers a truly memorable setting, blending traditional Japanese aesthetics with modern comfort.
 
-![Osaka Castle](/images/osaka/Osaka-Castle.webp)
+![Osaka Castle](/images/venue/osaka-geihinkan-former-guest-house-mice.jpg)
 
 **Transportation on Nov. 19:** We will travel to the Osaka Geihinkan by [Aqua Liner](https://suijo-bus.osaka/language/).
 

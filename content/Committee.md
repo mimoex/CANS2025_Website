@@ -114,7 +114,7 @@ date: 2025-04-19
 <div class="committee-entry"><span class="name">Yuji Suga</span><span class="affiliation">Internet Initiative Japan Inc.</span></div>
 
 ### Financial Management
-<div class="committee-entry"><span class="name">Akira Yamada</span><span class="affiliation">Kobe University</span></div>
+<div class="committee-entry"><span class="name">Akira Yamada</span><span class="affiliation">University of Hyogo</span></div>
 <div class="committee-entry"><span class="name">Atsuo Inomata</span><span class="affiliation">The University of Osaka</span></div>
 <div class="committee-entry"><span class="name">Masaki Hashimoto</span><span class="affiliation">Kagawa University</span></div>
 <div class="committee-entry"><span class="name">Shinya Okumura</span><span class="affiliation">The University of Osaka</span></div>
