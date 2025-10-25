@@ -3,7 +3,7 @@ title: "Venue"
 date: 2025-04-20
 ---
 
-# Conference Venue
+## Conference Venue
 
 [Grand Cube Osaka (Osaka International Convention Center)](https://www.gco.co.jp/visitor/?stt_lang=en) is strategically located in the heart of Osaka, offering excellent accessibility for both business and leisure. With its central location, visitors can easily reach many key destinations around the city.
 
@@ -25,14 +25,15 @@ With its prime location, outstanding facilities, and proven track record of host
 
 
 
-## Accessibility
+### Accessibility
 
 For detailed transfer and transportation information, including airport and local access routes, please visit the official website:
 
 👉 [Click here for more access information](https://www.gco.co.jp/visitor/access/?stt_lang=en)
 
 ---
-# Banquet
+
+## Banquet
 
 We are pleased to announce that the official conference banquet will be held at two distinguished venues:
 
@@ -83,7 +84,7 @@ Originally built to welcome state guests, [Osaka Geihinkan](https://www.osakacas
 # Lunch
 
 **Lunch locations by day:**
-- **Nov. 18 (Tue):** Lunch at **[Nakanoshima Museum of Art, Osaka](https://nakka-art.jp/en/)**.
+- **Nov. 18 (Tue):** Lunch at **[Nakanoshima Museum of Art, Osaka](https://nakka-art.jp/en/)** — inside the museum at **[Musée Karato](https://musee-karato.com/)**.
 - **Nov. 19 (Wed):** Lunch at **[Grand Cube Osaka (Osaka International Convention Center)](https://www.gco.co.jp/visitor/?stt_lang=en)**.
 
 ---
@@ -93,6 +94,11 @@ Originally built to welcome state guests, [Osaka Geihinkan](https://www.osakacas
 ![Nakanoshima Museum](/images/osaka/nakanoshima/nakanoshima.webp)
 
 ![Nakanoshima Museum interior](/images/osaka/nakanoshima/interior.webp)
+
+### Lunch Venue: Musée Karato
+
+**[Musée Karato](https://musee-karato.com/)**, located inside the Nakanoshima Museum of Art, offers lunch in a stylish setting surrounded by the museum’s modern art ambiance.
+
 
 ### Map
 <div class="responsive-iframe">
