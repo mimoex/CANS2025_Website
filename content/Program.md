@@ -25,7 +25,7 @@ date: 2025-09-25
 | 15:00-15:30  | Break, Poster Session and Industry Exhibition |
 | 15:30-16:50  | Technical Session 3 |
 | 17:10-17:40  | Participants will stroll through the Nakanoshima district from the venue to the dinner site. |
-| 17:50-       | Dinner at the [Osaka Cotton Industry Club (綿業会館, Mengyo Club)](https://mengyo-club.jp/)<br>A historic building designated as an Important Cultural Property of Japan.<br>Participants will walk from the venue through the Nakanoshima district. |
+| 17:50-       | Dinner at the [General Incorporated Association Nihon Mengyo Club (Cotton Industry House)](https://mengyo-club.jp/)<br>A historic building designated as an Important Cultural Property of Japan.<br>Participants will walk from the venue through the Nakanoshima district. |
 
 
 ## November 19 (Wed) (Grand Cube Osaka)

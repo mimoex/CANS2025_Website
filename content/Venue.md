@@ -37,7 +37,7 @@ For detailed transfer and transportation information, including airport and loca
 
 We are pleased to announce that the official conference banquet will be held at two distinguished venues:
 
-- **[Mengyo Kaikan](https://mengyo-club.jp/)** on **November 18 (Tue)**
+- **[Nihon Mengyo Club](https://mengyo-club.jp/)** on **November 18 (Tue)**
 - **[Osaka Geihinkan](https://www.osakacastle.jp/)** on **November 19 (Wed)**
 
 Both banquets will feature fine dining, networking opportunities, and a chance to enjoy the cultural and historical charm of Osaka.
@@ -45,12 +45,12 @@ Both banquets will feature fine dining, networking opportunities, and a chance t
 
 ---
 
-## About Mengyo Kaikan (Nov. 18)
-![Mengyo Kaikan](/images/venue/mengyo_front.png)
+## About Nihon Mengyo Club (Nov. 18)
+![Mengyo Club](/images/venue/mengyo_front.png)
 
-[Mengyo Kaikan](https://mengyo-club.jp/), located in Osaka’s central business district, is a historic building completed in 1931. It is designated as an Important Cultural Property of Japan, celebrated for its **Neo-Renaissance architectural style** with intricate interior details, high ceilings, and luxurious chandeliers. The venue offers a unique blend of cultural heritage and refined atmosphere, making it a prestigious setting for the first banquet.
+[General Incorporated Association Nihon Mengyo Club (Cotton Industry House)](https://mengyo-club.jp/), located in Osaka’s central business district, is a historic building completed in 1931. It is designated as an Important Cultural Property of Japan, celebrated for its **Neo-Renaissance architectural style** with intricate interior details, high ceilings, and luxurious chandeliers. The venue offers a unique blend of cultural heritage and refined atmosphere, making it a prestigious setting for the first banquet.
 
-![Mengyo Kaikan](/images/venue/mengyo_01.jpg)
+![Mengyo Club](/images/venue/mengyo_01.jpg)
 
 ### Map
 <div class="responsive-iframe">
