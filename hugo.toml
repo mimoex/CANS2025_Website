@@ -109,6 +109,13 @@ show_date = false
       url = "/invited_talk/"
       weight = 3
 
+    [[menu.main]]
+      parent = "program"
+      identifier = "Poster Session"
+      name = "Poster Session"
+      url = "/posters/"
+      weight = 4
+
   # --- Conference Info ---
   [[menu.main]]
     identifier = "conference-info"

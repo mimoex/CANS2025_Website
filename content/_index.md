@@ -20,92 +20,101 @@ The International Conference on Cryptology and Network Security (CANS) is a prem
 
 <div style="max-height: 400px; overflow-y: auto; padding: 1rem; border: 1px solid #ddd; background-color: #f9f9f9; border-radius: 8px; font-size: 1rem; line-height: 1.6;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
+
+  <li>
+    <strong>2025/10/30</strong><br>
+    ・Added detailed <a href="./program/">Program</a> information<br>
+    ・Released the <a href="./posters/">Poster Session</a> page
+  </li>
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
+
   <li>
     <strong>2025/09/25</strong><br>
-    ・Release the <a href=./program/>program</a>
+    ・Released the <a href="./program/">Program</a> page
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/09/18</strong><br>
-    ・Add Invited Speaker information
+    ・Added Invited Speaker information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/09/16</strong><br>
-    ・Add Call-for-Poster infomation
+    ・Posted the Call for Posters
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/09/09</strong><br>
-    ・Update Launch infomartion
+    ・Updated Launch information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/09/06</strong><br>
-    ・Add Accepted Papers page<br>
-    ・Update Banquet infomartion
+    ・Added the Accepted Papers page<br>
+    ・Updated Banquet information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/08/19</strong><br>
-    ・Update Registration, VISA, STIPEND
+    ・Updated Registration, Visa, and Stipend information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/07/19</strong><br>
-    ・Additional information about the lunch venue
+    ・Added additional information about the lunch venue
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/06/04</strong><br>
-    ・Add sponsors
+    ・Added new sponsors
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/04/20</strong><br>
-    ・Deadline has been changed.<br>
-    ・The overall web page has been updated.
+    ・Updated submission deadlines<br>
+    ・Refreshed the overall website
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/03/04</strong><br>
-    ・Add PC committee<br>
-    ・Add Submission page
+    ・Added Program Committee members<br>
+    ・Opened the Submission page
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
   
   <li>
     <strong>2025/02/22</strong><br>
-    ・Add sponsors<br>
-    ・Add Banquet information
+    ・Added sponsors<br>
+    ・Added Banquet information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2025/02/11</strong><br>
-    ・Add STIPEND
+    ・Added Stipend information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2024/11/07</strong><br>
-    ・Update Committee
+    ・Updated Committee information
   </li>
   <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
   <li>
     <strong>2024/10/01</strong><br>
-    ・First Commit
+    ・Initial website release
   </li>
+
 </ul>
 </div>
 
