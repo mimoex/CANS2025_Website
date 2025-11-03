@@ -57,7 +57,7 @@ date: 2025-09-25
 
 | Time         | Event |
 |--------------|-------|
-| 09:00–10:35  | **Technical Session 7: Post-Quantum Cryptography**<br>• Compressed Verification for Post-Quantum Signatures with Long-Term Public Keys<br>• Generalizing Key Recovery Attacks Against NTRU with Multiple Keys and Its Application in NTRUReEncrypt<br>• Strong Designated Verifier Signatures from Isogeny Assumptions<br>• To Extend or Not to Extend: Agile Masking Instructions for PQC<br>• DiSK: A Deniable Split KEM from The MLWE Problem (Short) |
-| 10:35–10:55  | Break, Poster Session, and Industry Exhibition |
-| 10:55–12:30  | **Technical Session 8: Cryptographic Protocols and Blockchain**<br>• Attribute-Based Key Exchange with Optimal Efficiency<br>• Codes on Any Cayley Graph Have an Interactive Oracle Proof of Proximity<br>• Decentralized Fair Exchange with Advertising<br>• Revisiting Rational Broadcast Protocols<br>• A Key-Update Mechanism for the Space Data Link Security Protocol (Short) |
-| 12:30–12:45  | Closing |
+| 09:05–10:40  | **Technical Session 7: Post-Quantum Cryptography**<br>• Compressed Verification for Post-Quantum Signatures with Long-Term Public Keys<br>• Generalizing Key Recovery Attacks Against NTRU with Multiple Keys and Its Application in NTRUReEncrypt<br>• Strong Designated Verifier Signatures from Isogeny Assumptions<br>• To Extend or Not to Extend: Agile Masking Instructions for PQC<br>• DiSK: A Deniable Split KEM from The MLWE Problem (Short) |
+| 10:40–11:00  | Break, Poster Session, and Industry Exhibition |
+| 11:00–12:35  | **Technical Session 8: Cryptographic Protocols and Blockchain**<br>• Attribute-Based Key Exchange with Optimal Efficiency<br>• Codes on Any Cayley Graph Have an Interactive Oracle Proof of Proximity<br>• Decentralized Fair Exchange with Advertising<br>• Revisiting Rational Broadcast Protocols<br>• A Key-Update Mechanism for the Space Data Link Security Protocol (Short) |
+| 12:35–12:50  | Closing |
