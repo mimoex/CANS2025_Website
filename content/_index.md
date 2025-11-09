@@ -22,6 +22,13 @@ The International Conference on Cryptology and Network Security (CANS) is a prem
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 
   <li>
+    <strong>2025/11/09</strong><br>
+    ・Added <em>Poster Presentation Notes</em> and <em>Best Poster Awards</em> to the <a href="./posters/">Poster Session</a> page<br>
+    ・Updated the schedule of the second day on the <a href="./program/">Conference Program</a> page
+  </li>
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
+
+  <li>
     <strong>2025/10/30</strong><br>
     ・Added detailed <a href="./program/">Program</a> information<br>
     ・Released the <a href="./posters/">Poster Session</a> page

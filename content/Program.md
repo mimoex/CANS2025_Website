@@ -1,5 +1,5 @@
 ---
-title: "Program"
+title: "Conference Program"
 date: 2025-09-25
 ---
 
@@ -16,20 +16,20 @@ date: 2025-09-25
 
 | Time         | Event |
 |--------------|-------|
-| 09:00–09:20  | Registration |
-| 09:20–09:30  | Opening |
-| 09:30–10:30  | **Invited Talk 1:** AGRAWAL SHWETA (IIT Madras, Computer Science and Engineering)<br>_Exploring New Frontiers in Cryptography from Brave New Assumptions_ |
-| 10:30–10:50  | Break, Poster Session, and Industry Exhibition |
-| 10:50–12:05  | **Technical Session 1: Advanced Encryption**<br>• Group Signatures with Message-Dependent Opening Directly Imply Timed-Release Encryption<br>• On the Relations between Matchmaking Public Key Encryption and Public Key Authenticated Encryption with Keyword Search<br>• Faster FHEW Bootstrapping with Adaptive Key Update<br>• Fully Verifiable Ciphertext-Policy Attribute-Based Encryption (Short) |
-| 12:05–12:20  | 15 mins walk through the Nakanoshima district to the lunch site<br>See: [Nakanoshima Art Museum](https://nakka-art.jp/) |
-| 12:20–13:10  | **Lunch** at [Musée KARATO](https://musee-karato.com/) (Nakanoshima Art Museum) |
-| 13:10–13:20  | Memorial photo in front of the Nakanoshima Art Museum |
-| 13:20–13:35  | 15 mins walk back to Grand Cube Osaka |
-| 13:35–14:50  | **Technical Session 2: Symmetric-Key Cryptography**<br>• Comparing Gaston with Ascon-p: Side-Channel Analysis and Hardware Evaluation<br>• Computing the Restricted Algebraic Immunity, and Application to WPB Functions<br>• Impossible Differential Attack on SAND-128 (Short)<br>• Sonikku: Gotta Speed, Keed! A Family of Fast and Secure MACs (Online) |
-| 14:50–15:20  | Break, Poster Session, and Industry Exhibition |
-| 15:20–16:20  | **Technical Session 3: Vulnerability Detection I**<br>• WiperSentinel: HPC-Based Wiper Detection with Enhanced AutoEncoder<br>• Lanstree: Cross-Architecture Binary Code Similarity Detection with a Bidirectional Tree-Structured Embedding Model<br>• Attention-Based Code Summarization for Multi-Label Vulnerability Detection (Online) |
-| 16:20–17:25  | Stroll through the Nakanoshima district to the dinner site (approx. 30 min) |
-| 17:00–17:55  | Guided Tour at [General Incorporated Association Nihon Mengyo Club (Cotton Industry House)](https://mengyo-club.jp/)<br>A historic building designated as an Important Cultural Property of Japan. |
+| 08:30–09:00  | Registration |
+| 09:00–09:10  | Opening |
+| 09:10–10:10  | **Invited Talk 1:** AGRAWAL SHWETA (IIT Madras, Computer Science and Engineering)<br>_Exploring New Frontiers in Cryptography from Brave New Assumptions_ |
+| 10:10–10:30  | Break, Poster Session, and Industry Exhibition |
+| 10:30–11:45  | **Technical Session 1: Advanced Encryption**<br>• Group Signatures with Message-Dependent Opening Directly Imply Timed-Release Encryption<br>• On the Relations between Matchmaking Public Key Encryption and Public Key Authenticated Encryption with Keyword Search<br>• Faster FHEW Bootstrapping with Adaptive Key Update<br>• Fully Verifiable Ciphertext-Policy Attribute-Based Encryption (Short) |
+| 11:45–12:00  | 15 mins walk through the Nakanoshima district to the lunch site<br>See: [Nakanoshima Art Museum](https://nakka-art.jp/) |
+| 12:00–12:10  | Memorial photo in front of the Nakanoshima Art Museum |
+| 12:10–13:00  | **Lunch** at [Musée KARATO](https://musee-karato.com/) (Nakanoshima Art Museum) |
+| 13:00–13:15  | 15 mins walk back to Grand Cube Osaka |
+| 13:15–14:30  | **Technical Session 2: Symmetric-Key Cryptography**<br>• Comparing Gaston with Ascon-p: Side-Channel Analysis and Hardware Evaluation<br>• Computing the Restricted Algebraic Immunity, and Application to WPB Functions<br>• Impossible Differential Attack on SAND-128 (Short)<br>• Sonikku: Gotta Speed, Keed! A Family of Fast and Secure MACs (Online) |
+| 14:30–15:00  | Break, Poster Session, and Industry Exhibition |
+| 15:00–16:00  | **Technical Session 3: Vulnerability Detection I**<br>• WiperSentinel: HPC-Based Wiper Detection with Enhanced AutoEncoder<br>• Lanstree: Cross-Architecture Binary Code Similarity Detection with a Bidirectional Tree-Structured Embedding Model<br>• Attention-Based Code Summarization for Multi-Label Vulnerability Detection (Online) |
+| 16:00–17:05  | Stroll through the Nakanoshima district to the dinner site (approx. 30 min) |
+| 16:40–17:55  | Guided Tour at [General Incorporated Association Nihon Mengyo Club (Cotton Industry House)](https://mengyo-club.jp/)<br>A historic building designated as an Important Cultural Property of Japan. |
 | 18:00–20:00  | **Dinner** at Nihon Mengyo Club |
 
 

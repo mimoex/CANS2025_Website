@@ -12,3 +12,15 @@ date: 2025-10-30
 | **A GUI-Based Simulation System for Intuitive Threat Modeling** | Taiyo Kakoi (Kyushu University)<br> Hiroshi Koide (Kyushu University) |
 | **POLKA: A Practical Leakage-Resilient Post-Quantum PKE Scheme and its Leveled Implementation** | Clément Hoffmann (NTT Social Laboratories)<br> Benoît Libert (Zama)<br> Charles Momin (UC Louvain)<br> Thomas Peters (UC Louvain)<br> Thibaud Schoenauen (UC Louvain)<br> François-Xavier Standaert (UC Louvain) |
 | **Guarded Delegated Ownership Transfer (GDOT): Scriptless, Chain-Agnostic Atomic Swaps with a Non-Custodial Signing Gate** | Aki Tarumi (Mycel Foundation)<br> Masato Tsutsumi (Nyx Foundation)<br> Yosui Harasawa (Mycel Foundation) |
+
+### Poster Presentation Notes
+All accepted posters will be presented on-site.
+Poster presenters must bring their printed poster (recommended size: A0, vertical orientation) to the conference venue.
+At least one author of each accepted poster must register as General Registration and attend the conference in person.
+
+---
+
+## Best Poster Awards
+Best Poster Awards will be presented at CANS 2025. Conference participants will vote for their favorite posters during the poster session by scanning QR codes that will be available at the venue.
+
+The awards will be announced at the Conference Banquet on Wednesday, November 19, 2025, from 19:00 to 21:00.
