@@ -1,6 +1,7 @@
 ---
 title: "Call for Poster"
 date: 2025-09-16
+description: "Call for Posters"
 ---
 
 CANS will host a poster session this year, providing a forum for presenting and discussing ongoing research, new challenges, future research directions, and innovative approaches within the field of information security. High-quality poster presentations are a key part of CANS, with special encouragement for interdisciplinary projects and collaborations between academia and industry.

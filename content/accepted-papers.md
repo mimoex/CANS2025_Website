@@ -1,6 +1,7 @@
 ---
 title: "Accepted Papers"
 date: 2025-09-06
+description: "List of accepted papers for CANS 2025"
 ---
 
 ## Full Papers

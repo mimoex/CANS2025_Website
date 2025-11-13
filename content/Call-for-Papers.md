@@ -1,6 +1,7 @@
 ---
 title: "Call for Papers"
 date: 2025-04-19
+description: "Call for Papers for CANS 2025 — The 24th International Conference on Cryptology and Network Security, to be held in Osaka, Japan. Submit original research on cryptography, privacy, and secure systems. Proceedings will be published in Springer LNCS."
 ---
 
 # About the conference

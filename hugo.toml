@@ -116,6 +116,14 @@ show_date = false
       url = "/posters/"
       weight = 4
 
+    [[menu.main]]
+      parent = "program"
+      identifier = "Access maps"
+      name = "Access maps"
+      url = "/map/"
+      weight = 5
+
+
   # --- Conference Info ---
   [[menu.main]]
     identifier = "conference-info"

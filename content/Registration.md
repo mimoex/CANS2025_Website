@@ -1,6 +1,7 @@
 ---
 title: "Registration"
 date: 2025-09-02
+description: "Register for CANS 2025 — details on fees, deadlines, and participant categories for the conference in Osaka."
 ---
 
 

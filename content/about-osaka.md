@@ -1,6 +1,7 @@
 ---
 title: "Attractive Osaka"
 date: 2025-04-20
+description: "Discover Osaka"
 ---
 
 ## Osaka: A City of Culture, History, and Innovation
