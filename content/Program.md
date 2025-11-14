@@ -97,15 +97,15 @@ The proceedings can be accessed [here](../proceeding.html). The password will be
       <td>
         <strong>Technical Session 3 : Vulnerability Detection I</strong><br><br>
         <div class="paper">
-          9. WiperSentinel: HPC based Wiper detection with Enhanced AutoEncoder<br>
+          1. WiperSentinel: HPC based Wiper detection with Enhanced AutoEncoder<br>
           <span class="speaker">Shiva Agarwal, Suvadeep Hajra, Ayantika Chatterjee, Debdeep Mukhopadhyay</span>
         </div>
         <div class="paper">
-          10. Lanstree: Cross-Architecture Binary Code Similarity Detection with a Bidirectional Tree-Structured Embedding Model<br>
+          2. Lanstree: Cross-Architecture Binary Code Similarity Detection with a Bidirectional Tree-Structured Embedding Model<br>
           <span class="speaker">Congyu Cao, Xiaohan Wang, Shunda Pan, Haipeng Qu, Guohang Pan</span>
         </div>
         <div class="paper">
-          11. Attention-based Code Summarization for Multi-label Vulnerability Detection(Online)<br>
+          3. Attention-based Code Summarization for Multi-label Vulnerability Detection(Online)<br>
           <span class="speaker">Mst Maksuda Bilkis Baby, Md. Atabuzzaman, Md Shajalal, Gunnar Stevens</span>
         </div>
       </td>
@@ -129,8 +129,8 @@ The proceedings can be accessed [here](../proceeding.html). The password will be
         <strong>Technical Session 4: Attacks</strong><br><br>
         <div class="paper">1. Unveiling the critical attack path for implanting backdoors in supply chains: Practical experience from XZ<br><span class="speaker">Mario Lins, René Mayrhofer, Michael Roland</span></div>
         <div class="paper">2. Synthetic Lateral Movement Data Generation for Azure Cloud: A Hopper-Based Approach<br><span class="speaker">Mohammad Mamun, Hadeer Ahmed, Sherif Saad, Anas Mabrouk</span></div>
-        <div class="paper">3. Acoustic Side Channel Attack on Keyboards Based on Typing Patterns<br><span class="speaker">Alireza Taheritajar, Reza Rahaeimehr</span></div>
-        <div class="paper">4. Enhancing Cold Boot Attacks with Probabilistic-Guided SAT-Solvers (Short)<br><span class="speaker">Shahar Golan, Daniel Berend, Yochai Twitto, Itamar Zimerman, Amit Cohen, Boris Tsirkin</span></div>
+        <div class="paper">3. Enhancing Cold Boot Attacks with Probabilistic-Guided SAT-Solvers (Short)<br><span class="speaker">Shahar Golan, Daniel Berend, Yochai Twitto, Itamar Zimerman, Amit Cohen, Boris Tsirkin</span></div>
+        <div class="paper">4. Acoustic Side Channel Attack on Keyboards Based on Typing Patterns(Online)<br><span class="speaker">Alireza Taheritajar, Reza Rahaeimehr</span></div>
       </td>
     </tr>
     <tr><th>11:55–13:30</th><td>Lunch &amp; Poster Session (in Grand Cube Osaka)</td></tr>

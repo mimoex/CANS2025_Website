@@ -27,6 +27,7 @@ This is the website for the **CANS2025 (Cryptology and Network Security 2025)** 
 - **Theme:** [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
 - **Deployment:** Cloudflare Pages
 - **Version Control:** Git + GitHub
+- **Protected Pages:** [StatiCrypt](https://github.com/robinmoisson/staticrypt)
 
 ## Build Command and Configuration
 
